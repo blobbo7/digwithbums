@@ -1,0 +1,1 @@
+audio_play_sound(scarysound, 1, false)
